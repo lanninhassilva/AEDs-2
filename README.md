@@ -36,7 +36,7 @@ A ideia é manter tudo organizadinho e acompanhar minha evolução em programaç
 ```text
        ♡
     /￣￣￣￣\
-   |  AEDS II |
+   | AEDS II |
     \＿＿＿＿/
        ♡
   code • study • repeat
